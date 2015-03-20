@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5142
+
+The plugin adds the function FindIfMacros which finds the preprocessor conditions that surround the currently selected line and displays them as a combined expression, to better navigate "#ifdef-mazes".
+Binds to 'M'
+
+Note: I'm not sure which the lowest vim version it would work with is.
